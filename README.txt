@@ -3,6 +3,8 @@
 
 #### IMPORTANT ####
 
+This program only works for Windows.
+
 The program is intended to be used when you are not actively at your computer. You are responsible if you decide to play another game or use a different software at the same time the program is running.
 
 Please make sure to read everything and follow the directions given for the program.
